@@ -1,0 +1,5 @@
+.direnv
+src/BOP/bin/Release/net8.0
+src/BOP/obj/Debug/net8.0
+src/BOP/obj/Release/net8.0
+src/BOP/obj
