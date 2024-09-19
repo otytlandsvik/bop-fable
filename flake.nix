@@ -25,6 +25,8 @@
             fsautocomplete
             dotnet-sdk_8
             fable
+            fantomas
+            python3
           ];
         };
       }
